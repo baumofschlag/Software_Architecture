@@ -1,2 +1,2 @@
 # Software_Architecture
-John Schlagbaum and Ian Schuster
+John Schlagbaum (CS) and Ian Schuster (CS)
